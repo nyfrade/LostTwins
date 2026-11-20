@@ -2,7 +2,7 @@
 
 **LostTwins** is a browser-based 2D platform game built with React and Phaser. It follows Ilyra, the spirit of water, and Brynna, the spirit of the forest, two sisters separated after a powerful tempest tears their valley apart. The player explores different environments, fights enemies, interacts with NPCs and completes puzzle challenges while progressing through the story.
 
-This project was developed as a web development project and combines a React-based application interface with a Phaser game runtime.
+This project was developed collaboratively by **Anthony Frade and Valezka Naia** as a web development project. It combines a React-based application interface with a Phaser game runtime.
 
 ## Table of contents
 
@@ -311,3 +311,11 @@ Update `src/login/supabase.js` to read these variables with `process.env.REACT_A
 ---
 
 **LostTwins** combines browser-based application development with 2D game programming, bringing together React, Phaser, physics-based gameplay, modular entities, interactive puzzles and online player data.
+
+
+## Contributors
+
+- Anthony Frade
+- Valezka Naia
+
+Both contributors collaborated on the project. Individual task ownership should be described separately only where it can be verified from the development history or team records.
